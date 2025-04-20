@@ -73,5 +73,5 @@ Programming is my passion. I mostly work with C++, creating desktop applications
 
 - GitHub: [@korep06](https://github.com/korep06)
 - Telegram: [KorepovKirill](https://t.me/whokirusha)
-- Maill: [KorepovKirill](mailto:korepov.kirill@maill.ru)
+- Maill: [KorepovKirill](mailto:korepov.kirill@mail.ru)
 
