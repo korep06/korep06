@@ -15,6 +15,7 @@ Programming is my passion. I mostly work with C++, creating desktop applications
 
 🧮✅️➗[**CalculatorQt**](https://github.com/korep06/UI_calculator.git) – A userful desktop calculator c built with C++ and Qt.  
 ⭕❌🕹️[**Крестики Нолики**](https://github.com/korep06/GomokuQt.git) - A funny desktop gomoku game c built with C++ and Qt.
+🔘🔼🔽[**ButtonTools**](https://github.com/korep06/ButtonTools.git) - ButtonTools is a set of tools for working with buttons in C++/Qt applications.
 
 ---
 
