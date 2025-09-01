@@ -22,7 +22,9 @@ Programming is my passion. I mostly work with C++, creating desktop applications
 ## 🚀 I understand complex topics.
 
 
-📍📍📍[**map-unordered_map**](https://github.com/korep06/-map-unordered_map-C-.git) – Разбираю разницу в контейнерах map и unordered_map  
+📍📍📍[**map-unordered_map**](https://github.com/korep06/-map-unordered_map-C-.git) – Разбираю разницу между контейнеров map и unordered_map 
+
+📍📍📍[**unordered_map-unordered_set**](https://github.com/korep06/-unordered_map-unordered_set---.git) – Объясняю устройство unordered_map и unordered_set, хешеры и компараторы
 
 
 ---
